@@ -11,5 +11,3 @@ textOutputter.Process(inputText);
 
 textOutputter = new TextOutputter(new NumericalTextOutputStrategy());
 textOutputter.Process(inputText);
-
-Console.ReadKey();
